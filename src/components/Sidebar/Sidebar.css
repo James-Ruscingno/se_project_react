@@ -1,0 +1,11 @@
+.sidebar {
+    display: flex;
+    gap: 16px;
+}
+
+.sidebar__username {
+    font-family: "CabinetGrotesk", sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    font-style: bold;
+}

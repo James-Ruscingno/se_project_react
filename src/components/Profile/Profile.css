@@ -1,0 +1,13 @@
+.profile {
+  display: flex;
+  gap: 116px;
+  flex-direction: row;
+  width: 100vw;
+  box-sizing: border-box;
+}
+
+.profile__clothing-items {
+    width: 1075px;
+    margin: 0;
+    padding: 0;
+}
